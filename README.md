@@ -4,7 +4,7 @@
 O objetivo deste projeto é mostrar que é possível desenvolver um projeto simples para realizar testes de performance de uma aplicação (ex.: API).
 
 ## Como utilizar:
-Para saber mais sobre este projeto, acesse o link do meu [artigo](https://medium.com/@alexalves_85598/utilizando-bdd-com-net-b566d29b7175).
+Para saber mais sobre este projeto, acesse o link do meu [artigo](https://medium.com/@alexalves_85598/testes-de-performance-em-apis-55f144aeb344).
 
 ## Tecnologias implementadas:
 * SBT
